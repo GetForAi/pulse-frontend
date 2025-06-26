@@ -947,7 +947,7 @@ const PulseLocal = {
         const defaultOptions = {
             headers: {
                 'Content-Type': 'application/json',
-                'Authorization': `tma ${this.state.initData}`,
+                'Authorization': this.state.initData,
                 'X-Requested-With': 'XMLHttpRequest'
             }
         };
