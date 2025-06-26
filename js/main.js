@@ -25,7 +25,7 @@ const PulseLocal = {
     },
 
     // API base URL (update with your backend URL)
-    apiBaseUrl: 'https://your-api-domain.com/api',
+    apiBaseUrl: 'https://prizegift.space',
 
     // Application initialization
     async init() {
